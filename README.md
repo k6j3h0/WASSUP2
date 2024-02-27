@@ -1,7 +1,7 @@
 # WASSUP2
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=100&section=header&text=JungHoon Kim&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=100&section=header&text=JungHoon_Kim&fontSize=80" />
 </div>
 
 <br>
